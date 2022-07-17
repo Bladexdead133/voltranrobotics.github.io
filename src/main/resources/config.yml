@@ -1,0 +1,12 @@
+#------------------- Titles -------------------
+managerTitle: "Game Manager"
+managerTitleColor: "&5"
+pickaxeName: "Lava Pickaxe"
+pickaxeNameColor: "&6"
+#------------------- Game Options -------------------
+starterKit: "Active"
+prepareTime: 300
+lavaTime: 60
+lavaAmount: 3
+borderSize: 100
+lavaLevel: 30

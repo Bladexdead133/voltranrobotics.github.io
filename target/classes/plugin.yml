@@ -1,0 +1,17 @@
+name: LavaKitAdvanced
+version: '2.0-SNAPSHOT'
+main: com.joseph.lavakitadvanced.LavaKitAdvanced
+api-version: 1.18
+authors: [ Joseph ]
+description: This is for lava rising game
+commands:
+  host:
+    description: Hosting for game!
+  request:
+    description: Request for hosting the game!
+  accept:
+    description: Accepts a request!
+  decline:
+    description: Declines a request!
+  stopGame:
+    description: Stops the current game!
